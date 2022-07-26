@@ -25,3 +25,4 @@ Run a set of phpUnit tests
 
    php artisan build-manual
 Runs a set of phpUnit tests, takes screen shots, and builds a manual
+
